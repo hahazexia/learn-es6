@@ -5,3 +5,4 @@
 ### 目录
 
 - [let和const](doc/1.let.md)
+- [解构赋值](doc/2.destructuring.md)
