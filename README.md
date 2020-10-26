@@ -6,3 +6,4 @@
 
 - [let和const](doc/1.let.md)
 - [解构赋值](doc/2.destructuring.md)
+- [字符串](doc/3.string.md)
