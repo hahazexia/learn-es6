@@ -8,3 +8,4 @@
 - [解构赋值](doc/2.destructuring.md)
 - [字符串](doc/3.string.md)
 - [正则表达式](doc/4.regexp.md)
+- [数值](doc/5.number.md)
