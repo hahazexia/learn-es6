@@ -9,3 +9,4 @@
 - [字符串](doc/3.string.md)
 - [正则表达式](doc/4.regexp.md)
 - [数值](doc/5.number.md)
+- [函数](doc/6.function.md)
