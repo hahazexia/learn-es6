@@ -12,3 +12,5 @@
 - [函数](doc/6.function.md)
 - [数组](doc/7.array.md)
 - [对象](doc/8.object.md)
+- [Symbol](doc/9.symbol.md)
+- [Set&Map](doc/10.set.map.md)
