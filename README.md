@@ -14,3 +14,6 @@
 - [对象](doc/8.object.md)
 - [Symbol](doc/9.symbol.md)
 - [Set&Map](doc/10.set.map.md)
+- [Proxy](doc/11.proxy.md)
+- [Promise](doc/12.promise.md)
+- [Iterator](doc/13.Iterator.md)
