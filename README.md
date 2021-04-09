@@ -17,3 +17,4 @@
 - [Proxy](doc/11.proxy.md)
 - [Promise](doc/12.promise.md)
 - [Iterator](doc/13.Iterator.md)
+- [Generator](doc/14.generator.md)
